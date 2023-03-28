@@ -17,6 +17,7 @@ Helper for importing PrimeXBT trades into Cointracking.info
   - wait for all cells being finished
   - click on the file browser icon (top left corner)
   - right click on *CoinTracking_Excel_Import.xls* and Download
+- prepend row to Excel table (as in the original Cointracking.info file)
 - go to Cointracking.info [Excel Import](https://cointracking.info/import/import_xls/)
   - upload the file
 
